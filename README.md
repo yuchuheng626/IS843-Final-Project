@@ -1,4 +1,4 @@
-# IS843 Identify the key factors and predict flight prices
+# IS843 US Domestic Flight Price Prediction
 
 - Chuheng(Kevin) Yu
 - Fu-Yi Pao
