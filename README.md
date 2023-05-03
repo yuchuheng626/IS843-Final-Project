@@ -1,5 +1,4 @@
-# IS843-Final-Project
-IS843 Final Project Identify the key factors and predict flight prices
+# IS843 Identify the key factors and predict flight prices
 
 - Chuheng(Kevin) Yu
 - Fu-Yi Pao
