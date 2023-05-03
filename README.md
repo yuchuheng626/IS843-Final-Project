@@ -1,11 +1,11 @@
 # IS843-Final-Project
 IS843 Final Project Identify the key factors and predict flight prices
 
-Chuheng(Kevin) Yu
-Fu-Yi Pao
-Jinisha Kande
-Shu Wang
-Yuhan Wang
+- Chuheng(Kevin) Yu
+- Fu-Yi Pao
+- Jinisha Kande
+- Shu Wang
+- Yuhan Wang
 
 Report Summary
 In this study, we employed PySpark and Pandas to investigate pricing factors impacting US domestic flight fares. We conducted exploratory data analysis and implemented linear regression and random forest regression models. Our findings revealed that customers can achieve cost savings by opting for a non-refundable, direct flight ticket and initiating their search 45 days prior to the actual flight date. For future research, we recommend extending the dataset to encompass a full year and include international flight data. Additionally, given increased time and computing resources, we could explore additional regression models to enhance our analysis.
